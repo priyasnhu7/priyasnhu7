@@ -2,12 +2,7 @@
 B.Tech CSE-DS @ AKGEC | Full-Stack Developer & Python Enthusiast. Ex-Frontend Intern at RemoveQ Technology. Focused on MERN stack, API integration, and building user-centric digital solutions. Team Lead and CSI Society Member
 
 <!-- ================= PROFILE IMAGE ================= -->
-<!-- ================= PROFILE IMAGE ================= -->
-<p align="center">
-  <img src="https://gemini.google.com/share/46f9838e69df")
-       width="100px"
-       style="border-radius: 999px;" />
-</p>
+
 
 
 ## 🌐 Connect With Me
