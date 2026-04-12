@@ -1,8 +1,13 @@
-![WhatsApp Image 2026-04-13 at 1 33 32 AM](https://github.com/user-attachments/assets/65709462-fd7a-4e4d-a9e2-436e0e0bbf6e)# 💫 About Me:
+# 💫 About Me:
 B.Tech CSE-DS @ AKGEC | Full-Stack Developer & Python Enthusiast. Ex-Frontend Intern at RemoveQ Technology. Focused on MERN stack, API integration, and building user-centric digital solutions. Team Lead and CSI Society Member
 
 <!-- ================= PROFILE IMAGE ================= -->
-
+<p align="center">
+  <img src="![WhatsApp Image 2026-04-13 at 1 33 32 AM](https://github.com/user-attachments/assets/d6669c12-eb04-41d1-bdc2-1f65e15885e1)
+"
+       width="200"
+       style="border-radius: 999px;" />
+</p>
 
 
 ## 🌐 Connect With Me
