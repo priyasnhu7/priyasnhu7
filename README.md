@@ -6,8 +6,8 @@ B.Tech CSE-DS @ AKGEC | Full-Stack Developer & Python Enthusiast. Ex-Frontend In
 <p align="center">
   <img src="![WhatsApp Image 2026-04-13 at 1 33 32 AM](https://github.com/user-attachments/assets/b455d9e0-04be-4b6e-bb6c-09f405be11e1)
 "
-       width="200"
-       style="border-radius: 999px;" />
+       width="100px"
+       style="border-radius: 100px;" />
 </p>
 
 
