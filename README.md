@@ -3,8 +3,7 @@ B.Tech CSE-DS @ AKGEC | Full-Stack Developer & Python Enthusiast. Ex-Frontend In
 
 <!-- ================= PROFILE IMAGE ================= -->
 <p align="center">
-  <img src="![WhatsApp Image 2026-04-13 at 1 33 32 AM](https://github.com/user-attachments/assets/d6669c12-eb04-41d1-bdc2-1f65e15885e1)
-"
+  <img src="https://github.com/priyasnhu7/priyasnhu7/issues/1#issue-4249815829"
        width="200"
        style="border-radius: 999px;" />
 </p>
